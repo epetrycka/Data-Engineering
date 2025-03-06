@@ -1,0 +1,42 @@
+[
+    {
+        "name": "First column",
+        "missing": 0.1,
+        "dtype": "float"
+    },
+    {
+        "name": "two",
+        "missing": 0.1,
+        "dtype": "other"
+    },
+    {
+        "name": "three",
+        "missing": 0.0,
+        "dtype": "other"
+    },
+    {
+        "name": "SOME;NAME",
+        "missing": 0.0,
+        "dtype": "int"
+    },
+    {
+        "name": "five",
+        "missing": 0.0,
+        "dtype": "other"
+    },
+    {
+        "name": "What is this even?",
+        "missing": 0.0,
+        "dtype": "other"
+    },
+    {
+        "name": "seven",
+        "missing": 0.0,
+        "dtype": "other"
+    },
+    {
+        "name": "eight",
+        "missing": 0.0,
+        "dtype": "other"
+    }
+]

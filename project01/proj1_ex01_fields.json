@@ -1,12 +1,12 @@
 [
     {
         "name": "First column",
-        "missing": 0.1,
+        "missing": 0.14285714285714285,
         "dtype": "float"
     },
     {
         "name": "two",
-        "missing": 0.1,
+        "missing": 0.14285714285714285,
         "dtype": "other"
     },
     {

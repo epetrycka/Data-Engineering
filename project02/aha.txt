@@ -1,0 +1,12 @@
+"proj2_ex04.pkl [0, jury_score]: expected '-1.0', got '  5 p'; 
+proj2_ex04.pkl [1, jury_score]: expected '0.0', got '-'; 
+proj2_ex04.pkl [2, jury_score]: expected '2.0', got '-1 (dnf)'; 
+proj2_ex04.pkl [3, jury_score]: expected '2.0', got '0'; 
+proj2_ex04.pkl [4, jury_score]: expected '2.0', got '2'; 
+proj2_ex04.pkl [5, jury_score]: expected '3.5', got '2'; 
+proj2_ex04.pkl [6, jury_score]: expected '3.5', got '3,5 pts'; 
+proj2_ex04.pkl [7, jury_score]: expected '3.5', got '3,5p'; 
+proj2_ex04.pkl [8, jury_score]: expected '4.0', got '3.5'; 
+proj2_ex04.pkl [9, jury_score]: expected '5.0', got '4'; 
+proj2_ex04.pkl [10, jury_score]: expected 'nan', got 'pts 2'; 
+proj2_ex04.pkl [11, jury_score]: expected 'nan', got 'waiting'"
